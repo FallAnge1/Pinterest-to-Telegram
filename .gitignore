@@ -1,0 +1,4 @@
+.env
+cookies.json
+downloads/
+node_modules/
